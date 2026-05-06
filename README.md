@@ -186,8 +186,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Project Link: [https://github.com/yourusername/your-repo-name](https://github.com/yourusername/your-repo-name)
+- GitHub: [https://github.com/saiujwal-hub/]
+- Project Link: [https://github.com/saiujwal-hub/ujwal]
 
 ## 🙏 Acknowledgments
 
@@ -195,11 +195,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - SVG icon design inspiration from modern UI libraries
 - Built with modern web standards and best practices
 
-## 📞 Support
 
-For support, email support@example.com or open an issue in the repository.
-
----
 
 **Note**: This is a client-side only application. All data is stored in your browser's local storage and is not transmitted to any server.
 

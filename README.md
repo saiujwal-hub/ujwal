@@ -7,8 +7,7 @@ A modern, intuitive task management application designed to help you stay organi
 
 ## 🚀 Live Demo
 
-- **Production URL**: https://todo-list-sigma-steel.vercel.app
-- **Project Dashboard**: https://vercel.com/saiujwal-hubs-projects/todo-list
+- **Production URL**: https://firstweb.qzz.io/
 
 ## ✨ Features
 
@@ -203,3 +202,5 @@ For support, email support@example.com or open an issue in the repository.
 ---
 
 **Note**: This is a client-side only application. All data is stored in your browser's local storage and is not transmitted to any server.
+
+Made by Sai Ujwal
